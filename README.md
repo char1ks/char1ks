@@ -1,5 +1,6 @@
 ### <p>Hello world :wave:</p>
 ![](https://github.com/char1ks/aboutMe/blob/main/download.gif)<!-- If you want the template for my gif, email me! -->
+### Fun FACT: in my opinion, the most interesting letcode task is 1642
 
 ### <h1>Languages:</h1>
 ###
