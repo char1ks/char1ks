@@ -37,5 +37,5 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </a>
 
-<img src="https://github.com/char1ks/aboutMe/blob/main/Снимок%20экрана%202024-07-24%20в%2022.37.11.png" alt="Leetcode Screen">
+<img src="https://github.com/char1ks/char1ks/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-22%20%D0%B2%2021.44.56.png" alt="Leetcode Screen">
 
