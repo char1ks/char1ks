@@ -32,7 +32,7 @@
 ![Intellij-idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 ###
 ### <h2>My Leetcode:</h2>
-### Best of 80 336 person🥵
+### Best of 30 336 person(14.05.2025)🥵
 <a href="https://leetcode.com/u/char1ks/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </a>
